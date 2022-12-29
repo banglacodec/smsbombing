@@ -6,7 +6,7 @@ Simple sms bomber using bash!
 ````bash
 pkg update && upgrade -y
 pkg install git -y
-git clone https://github.com/ITSN0B1T4/hexsms
+git clone https://github.com/banglacodec/smsbombing
 cd hexsms
 bash sms.sh
 ````
@@ -17,8 +17,8 @@ bash sms.sh
 
 ##### Press ctrl + c for stop bombing.
 
-##### Join our messenger group : https://m.me/j/AbY8-vv2Gec1y8ex
+##### Join our messenger group : https://www.facebook.com/profile.php?id=100087357765826
 
-##### Follow my page : https://facebook.com/Toxinum
+##### Follow my page : https://www.facebook.com/profile.php?id=100087357765826
 
-##### Contact with me : https://facebook.com/ITSN0B1T4
+##### Contact with me : https://www.facebook.com/profile.php?id=100087357765826
